@@ -1,2 +1,2 @@
 # RESCOiPAD
-RESCO iPhone &amp; iPAD debuggin
+RESCO iPhone &amp; iPAD debugging
